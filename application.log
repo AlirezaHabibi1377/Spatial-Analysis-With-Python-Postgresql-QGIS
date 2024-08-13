@@ -1,0 +1,6 @@
+2024-08-12 11:43:20,015 - INFO - Database engine created successfully.
+2024-08-12 11:43:20,234 - INFO - Loaded vector layer 'landuse_10km' successfully.
+2024-08-12 11:43:20,245 - INFO - Loaded vector layer 'rivers_10km' successfully.
+2024-08-12 11:43:20,266 - INFO - Applied buffer and intersection successfully.
+2024-08-12 11:43:20,494 - INFO - Data saved to PostgreSQL table: landuse_results
+2024-08-12 11:43:20,503 - INFO - Data saved to CSV file: filtered_land_use_results.csv
